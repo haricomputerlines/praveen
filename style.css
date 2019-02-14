@@ -1,0 +1,13 @@
+/* Styles go here */
+body {
+  padding-top: 51px;
+  background-color:#333;
+  color:#fff;
+}
+
+/* this is only to style the sidebar - you can make the sidebar look any way you want */
+.sidebar {
+  padding: 20px;
+  background-color: #fafafa;
+  border-right: 1px solid #eee;
+}
